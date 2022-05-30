@@ -1,0 +1,47 @@
+body{
+	background-color: pink;
+	margin: 0px;
+
+}
+div.titulo{
+	background-color: indianred;
+    padding: 1px 0px;
+    min-height: 100%;
+		}
+div.Pasatiempos{
+
+	background-color: #EEFBFC;
+	
+	margin: 0 auto;
+    width: 80px
+}
+div.margen{
+    padding: 1px 0px;
+    margin: 0 auto;
+    width: 95%;
+}
+div.autores{
+	font-family: Helvetica, Arial,sans-serif;
+	margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+h1{
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 30px;
+	text-align: center;
+    }
+h2{
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 20px;
+    }
+h3{
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 17px;
+    }
+p{
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 15px;
+	text-align: justify;
+	color: black;
+}
